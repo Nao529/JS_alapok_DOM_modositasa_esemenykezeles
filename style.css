@@ -49,6 +49,9 @@ div {
 img {
     width: 100%;
 }
+.nagyit {
+    width: 200%;
+}
 
 div.tarolo {
     display: flex;
